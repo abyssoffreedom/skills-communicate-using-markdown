@@ -5,6 +5,9 @@
 
 ```
 alist = [1, 2, 3, 4]
+another_list = []
 for num in alist:
   num += 1
+  another_list.append(num)
+print(another_list)
 ```
