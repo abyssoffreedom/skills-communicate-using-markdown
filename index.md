@@ -11,3 +11,6 @@ for num in alist:
   another_list.append(num)
 print(another_list)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
